@@ -1,8 +1,5 @@
 <template>
-  <div class="App">
-    <!-- 一级路由放置点 -->
-    <router-view></router-view>
-  </div>
+  <div>list。。。。。</div>
 </template>
 
 <script>
@@ -19,8 +16,5 @@ export default {
 }
 </script>
 
-<style lang='less'>
-.App {
-  height: 100%;
-}
+<style scoped lang='less'>
 </style>
